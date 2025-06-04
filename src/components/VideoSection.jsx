@@ -9,7 +9,7 @@ const VideoSection = () => {
       <div className="max-w-3xl mx-auto aspect-video">
         <iframe
           className="w-full h-full rounded-xl shadow-lg"
-          src="https://www.youtube.com/embed/fLexgOxsZu0"
+          src="https://youtu.be/JCXtKjgD6NE?si=nXLifvRrqhpaMnWI"
           title="Birthday Video"
           frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
