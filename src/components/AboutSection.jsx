@@ -21,11 +21,11 @@ const AboutSection = () => {
         <p className="text-lg md:text-xl leading-relaxed font-medium text-center">
           🎉 Birthday & Thank You Message 🎉
             Happy Birthday!
-          Today, I celebrate more than just your life — I celebrate your kindness, your sacrifices, and your unwavering belief in me.
+          Today, I celebrate more than just your life .I celebrate your kindness, your sacrifices, and your unwavering belief in me.
 
           <br />Coming from a humble background, I never imagined having someone who would stand by me the way you have. You've turned what could have been a struggle into a journey filled with hope and opportunity. Because of you, I dare to dream bigger, work harder, and never give up.
 
-          Thank you and God richly bless you <br /> Your support means the world to me — not just for the education, but for the love and faith you've poured into me.
+          Thank you and God richly bless you <br /> Your support means the world to me , not just for the education, but for the love and faith you've poured into me.
 
           May this birthday be filled with as much joy and goodness as you bring into the lives of others. I hope one day I can repay even a fraction of what you've done for me.
 
